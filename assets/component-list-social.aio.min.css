@@ -1,0 +1,5 @@
+/*
+Generated time: October 4, 2023 16:59
+This file was created by the app developer. Feel free to contact the original developer with any questions. It was minified (compressed) by AVADA. AVADA do NOT own this script.
+*/
+.list-social{display:flex;flex-wrap:wrap;justify-content:flex-start;margin-top:20px}@media only screen and (max-width:989px){.list-social{justify-content:center;margin-top:20px}}.list-social__item .icon{height:1.8rem;width:1.8rem}.list-social__link{align-items:center;display:flex;padding:1.1rem;color:var(--gradient-base-accent-1);background-color:#fff;border-radius:50%}.list-social__link:hover .icon{transform:scale(1.07)}li.list-social__item{margin-right:10px}
